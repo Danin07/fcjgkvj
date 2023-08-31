@@ -1,0 +1,25 @@
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: burlywood;
+}
+
+ul li{
+    margin: 12px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+img{
+    width: 200px;
+}
+
+.contain{
+
+display: flex;
+justify-content: center;
+}
